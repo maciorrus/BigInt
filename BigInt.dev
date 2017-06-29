@@ -63,7 +63,7 @@ BuildCmd=
 [Unit2]
 FileName=BigInt.h
 CompileCpp=1
-Folder=
+Folder=lib
 Compile=1
 Link=1
 Priority=1000
@@ -73,7 +73,7 @@ BuildCmd=
 [Unit3]
 FileName=BigInt.cpp
 CompileCpp=1
-Folder=
+Folder=lib
 Compile=1
 Link=1
 Priority=1000
